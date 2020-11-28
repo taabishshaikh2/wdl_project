@@ -1,0 +1,595 @@
+.mediaViewInfo {
+	--web-view-name: landing page;
+	--web-view-id: landing_page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: landing_page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#landing_page {
+	position: absolute;
+	width: 1920px;
+	height: 3240px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: landing page;
+	--web-view-id: landing_page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Path_1 {
+	fill: rgba(212,212,212,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1938px;
+	height: 3124px;
+	left: 0px;
+	top: 134px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_1 {
+	fill: rgba(242,242,242,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 134px;
+	left: 1px;
+	top: 0px;
+}
+#Rectangle_2 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	height: 95px;
+	left: 1520px;
+	top: 19px;
+}
+#Rectangle_3 {
+	fill: rgba(241,241,241,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	height: 76px;
+	left: 801px;
+	top: 27px;
+}
+#Rectangle_4 {
+	fill: rgba(241,241,241,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 76px;
+	left: 1017px;
+	top: 27px;
+}
+#Rectangle_5 {
+	fill: rgba(241,241,241,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 76px;
+	left: 1260px;
+	top: 27px;
+}
+#Home {
+	left: 816px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#Amafhh_Enterprises {
+	left: 278px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 444px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#About_Us {
+	left: 1031px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#Gallery__ {
+	left: 1274px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#CONTACT_US {
+	left: 1543px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_1 {
+	fill: rgba(129,121,121,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 140px;
+	top: 43px;
+}
+#Ellipse_2 {
+	fill: rgba(184,167,167,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 170px;
+	top: 43px;
+}
+#Ellipse_3 {
+	fill: rgba(128,110,110,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 200px;
+	top: 43px;
+}
+#Rectangle_6 {
+	fill: rgba(188,188,188,0.18);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 599px;
+	height: 658px;
+	left: 140px;
+	top: 275px;
+}
+#_Amafhh_Enterprises_is_one_of_ {
+	left: 140px;
+	top: 290px;
+	position: absolute;
+	overflow: visible;
+	width: 582px;
+	height: 857px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#drop-down-arrow {
+	opacity: 0.5;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 957px;
+	top: 52px;
+	overflow: visible;
+}
+#drop-down-arrow_x {
+	opacity: 0.5;
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 1437px;
+	top: 52px;
+	overflow: visible;
+}
+#DSC_0298_Grey_BG-1200x800-800x {
+	position: absolute;
+	width: 960px;
+	height: 640px;
+	left: 820px;
+	top: 275px;
+	overflow: visible;
+}
+#About_Us_We_have_innovated__de {
+	left: 177px;
+	top: 1202px;
+	position: absolute;
+	overflow: hidden;
+	width: 644px;
+	height: 837px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#In_different_elements_of_India {
+	left: 947px;
+	top: 1202.377px;
+	position: absolute;
+	overflow: hidden;
+	width: 644px;
+	height: 622px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#hot-water {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1501px;
+	top: 1898px;
+	overflow: visible;
+}
+#manufacturing {
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1334px;
+	top: 1898px;
+	overflow: visible;
+}
+#construction {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1167px;
+	top: 1898px;
+	overflow: visible;
+}
+#Compact-Machine {
+	mix-blend-mode: multiply;
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1000px;
+	top: 1898px;
+	overflow: visible;
+}
+#Compact_Machine {
+	left: 960px;
+	top: 1981px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Adjustable {
+	left: 1159px;
+	top: 1978px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Pad_Protection {
+	left: 1307px;
+	top: 1976px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Temperature_Control {
+	left: 1464px;
+	top: 1976px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#_Products_Description-__THE_PR {
+	transform: matrix(1,0,0,1,132.1099,2244.5889) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 711px;
+	height: 673px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#ID10-2-telephone-png-picture {
+	position: absolute;
+	width: 37px;
+	height: 50px;
+	left: 1010px;
+	top: 2382px;
+	overflow: visible;
+}
+#mail-142 {
+	position: absolute;
+	width: 66px;
+	height: 66px;
+	left: 995px;
+	top: 2468px;
+	overflow: visible;
+}
+#kisspng-computer-icons-vector- {
+	position: absolute;
+	width: 58px;
+	height: 58px;
+	left: 1000px;
+	top: 2570px;
+	overflow: visible;
+}
+#Component_1__3 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1640px;
+	height: 1px;
+	left: 140.5px;
+	top: 2139.5px;
+	overflow: visible;
+}
+#Line_1 {
+	filter: blur(30px);
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1658px;
+	height: 21px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_1__2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1640px;
+	height: 1px;
+	left: 140.5px;
+	top: 3063.5px;
+	overflow: visible;
+}
+#Line_1_bg {
+	filter: blur(30px);
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_bg {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1658px;
+	height: 21px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Estd_Since_2016_ {
+	left: 816px;
+	top: 3100px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+#Contact_Us {
+	left: 919px;
+	top: 2274px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 47px;
+	color: rgba(112,112,112,1);
+}
+#ID91_XXXXX_XXXXX {
+	left: 1092px;
+	top: 2376px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 47px;
+	color: rgba(112,112,112,1);
+}
+#Companymailcom {
+	left: 1092px;
+	top: 2478px;
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(112,112,112,1);
+}
+#Shop_No7_Kadri_Building_Opp_Pu {
+	left: 1092px;
+	top: 2573px;
+	position: absolute;
+	overflow: visible;
+	width: 486px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(112,112,112,1);
+}
