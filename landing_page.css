@@ -43,16 +43,10 @@
 	top: 134px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Rectangle_1 {
-	fill: rgba(242,242,242,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
+
 .Rectangle_1 {
+	background: rgba(242,242,242,1);
+	border: 1px solid #CBBEBE;
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -111,6 +105,7 @@
 }
 
 .Rectangle_5 {
+	outline:none;
 	position: absolute;
 	overflow: visible;
 	width: 233px;
@@ -170,7 +165,7 @@ button:hover{
 	color: rgba(112,112,112,1);
 	cursor: pointer;
 }
-#Gallery__ {
+.Gallery__ {
 	left: 1274px;
 	top: 27px;
 	position: absolute;
@@ -184,6 +179,30 @@ button:hover{
 	font-size: 50px;
 	color: rgba(112,112,112,1);
 	cursor: pointer;
+}
+.submenu{
+	background: #494545;
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    padding: 20px;
+    width: 190px;
+	border-radius: 5px;   
+	visibility: hidden;
+}
+.submenu ul{
+	
+	font-size: 25px;
+    width:80%;
+    list-style:none;
+
+}
+.submenu ul li{
+	
+	margin: 5px;
+}
+.Rectangle_5:hover > .submenu{
+    visibility: visible;
 }
 #CONTACT_US {
 	left: 1543px;
@@ -293,7 +312,7 @@ button:hover{
 	top: 52px;
 	overflow: visible;
 }
-#drop-down-arrow_x {
+.drop-down-arrow_x {
 	opacity: 0.5;
 	position: absolute;
 	width: 36px;
